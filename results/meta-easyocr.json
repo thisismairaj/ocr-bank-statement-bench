@@ -1,0 +1,7 @@
+{
+ "engine": "easyocr",
+ "version": "easyocr 1.7.2",
+ "load_seconds": 6.52,
+ "peak_rss_mb": 4440,
+ "cpu_threads_visible": 8
+}

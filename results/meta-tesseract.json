@@ -1,0 +1,7 @@
+{
+ "engine": "tesseract",
+ "version": "tesseract 5.5.0",
+ "load_seconds": 1.44,
+ "peak_rss_mb": 71,
+ "cpu_threads_visible": 8
+}

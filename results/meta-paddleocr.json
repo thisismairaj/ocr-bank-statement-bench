@@ -1,0 +1,7 @@
+{
+ "engine": "paddleocr",
+ "version": "paddleocr 3.7.0",
+ "load_seconds": 20.25,
+ "peak_rss_mb": 4871,
+ "cpu_threads_visible": 8
+}
